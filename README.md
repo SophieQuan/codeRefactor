@@ -8,3 +8,5 @@
 - properly commented on HTML and CSS files
 
 ![Screenshot](./assets/images/ScreenShot.png)
+
+<img src="./assets/images/ScreenShot.png">
