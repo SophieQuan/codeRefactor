@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Code Refactor
  PURPOSE: improve Herison Webpage to meet a certain set of standards or implement a new technology such as:
 - follows accessibility standards by adding accessible alt attributes and optimized for search engines
 - improved structure of the HTML elements by putting in section, and every content has an unique id
