@@ -7,6 +7,4 @@
 - CSS file consolidated and organized to follow semantic structure.
 - properly commented on HTML and CSS files
 
-![Screenshot](./assets/images/ScreenShot.png)
-
-<img src="./assets/images/ScreenShot.png">
+![ScreenShot](./assets/images/ScreenShot.png)
